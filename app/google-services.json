@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134423462364",
+    "firebase_url": "https://chatapp-c1833.firebaseio.com",
+    "project_id": "chatapp-c1833",
+    "storage_bucket": "chatapp-c1833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134423462364:android:68fd6eb9f9be9080c1cf19",
+        "android_client_info": {
+          "package_name": "com.kunal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134423462364-4j1v8e9ui44p59lrgss4oo4helsrr02t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kunal.chatapp",
+            "certificate_hash": "e06b4bd71341d9a014cb388d9c48f341d097465c"
+          }
+        },
+        {
+          "client_id": "134423462364-ggfhcmvojm9h27vikfced74v1k3cnu2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZtwsG-MbRQQncCD9QqMQuBy1_cYHs3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134423462364-ggfhcmvojm9h27vikfced74v1k3cnu2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
